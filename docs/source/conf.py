@@ -21,8 +21,8 @@ sys.path.insert(0, os.path.abspath('../../plugins'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Ftrack b3d connect'
-copyright = '2021, Vladimir Pylev'
+project = 'Cerebro at Propellers'
+copyright = '2022, Vladimir Pylev'
 author = 'Vladimir Pylev'
 
 # The full version, including alpha/beta/rc tags
