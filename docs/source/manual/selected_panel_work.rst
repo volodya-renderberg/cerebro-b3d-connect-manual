@@ -9,26 +9,26 @@ Selected Panel (Working)
 
 `Selected panel (видео) <https://youtu.be/Iav8T8ZGc5A>`_
 
-.. _selected_panel_ftrack:
+.. _selected_panel_cerebro:
 
-From Ftrack:
-------------
+From Cerebro:
+-------------
 
-Группа кнопок для взаимодействия с ftrack.
+Группа кнопок для взаимодействия с *Cerebro*.
 
 .. _selected_panel_download_version:
 
 Download version
 ~~~~~~~~~~~~~~~~
 
-:guilabel:`Download version` - Загрузка версии активной задачи с ftrack на локальный компьютер пользователя.
+:guilabel:`Download version` - Загрузка версии активной задачи с *Cerebro* на локальный компьютер пользователя.
 
 .. _selected_panel_update_incoming:
 
 Update incoming
 ~~~~~~~~~~~~~~~
 
-:guilabel:`Update incoming` - Загрузка с ftrack недостающих входящих компонентов для активной задачи.
+:guilabel:`Update incoming` - Загрузка с *Cerebro* недостающих входящих компонентов для активной задачи.
 
 .. _selected_panel_local:
 
@@ -73,7 +73,7 @@ Open from incoming
 Current scene to work
 ~~~~~~~~~~~~~~~~~~~~~
 
-:guilabel:`Current scene to work` - Взятие в работу текущей открытой сцены, с копированием в **top** версию активной задачи. Для случаев когда работа над файлом велась вне аддона, и пришло время загрузить версию на *ftrack*.
+:guilabel:`Current scene to work` - Взятие в работу текущей открытой сцены, с копированием в **top** версию активной задачи. Для случаев когда работа над файлом велась вне аддона, и пришло время загрузить версию на *Cerebro*.
 
 * Кроме сохранения самой сцены, забираются её текстуры из ``/textures``, а так же находящихся за пределами :ref:`projects_folder_settings`.
 

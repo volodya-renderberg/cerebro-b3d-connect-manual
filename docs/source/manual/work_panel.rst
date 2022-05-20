@@ -14,7 +14,7 @@ Working Panel
 From Ftrack:
 ------------
 
-Группа кнопок получения данных с *ftrack* полностью аналогична :ref:`selected_panel_ftrack`
+Группа кнопок получения данных с *ftrack* полностью аналогична :ref:`selected_panel_cerebro`
 
 .. _work_panel_download_version:
 

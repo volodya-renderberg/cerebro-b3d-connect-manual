@@ -7,7 +7,7 @@ Selected Panel (Checking)
 
 .. image:: ../_static/images/check_selected_panel.png
 
-.. _check_selected_panel_ftrack:
+.. _check_selected_panel_cerebro:
 
 From Ftrack:
 ------------
