@@ -9,7 +9,7 @@ Selected Panel (Checking)
 
 .. _check_selected_panel_cerebro:
 
-From Ftrack:
+From Cerebro:
 ------------
 
 .. _check_selected_panel_download_version:
@@ -17,14 +17,14 @@ From Ftrack:
 Download version
 ~~~~~~~~~~~~~~~~
 
-:guilabel:`Download version` - Загрузка версии активной задачи с ftrack на локальный компьютер пользователя.
+:guilabel:`Download version` - Загрузка версии активной задачи с *Cerebro* на локальный компьютер пользователя.
 
 .. _check_selected_panel_update_incoming:
 
 Update incoming
 ~~~~~~~~~~~~~~~
 
-:guilabel:`Update incoming` - Загрузка с ftrack недостающих входящих компонентов для активной задачи.
+:guilabel:`Update incoming` - Загрузка с *Cerebro* недостающих входящих компонентов для активной задачи.
 
 
 .. _check_selected_panel_local:
@@ -56,3 +56,9 @@ Open task folder
 ~~~~~~~~~~~~~~~~
 
 :guilabel:`Open task folder` - Запуск проводника в папке данной задачи.
+
+
+Close
+~~~~~
+
+:guilabel:`Close` - вернёт на :ref:`tasks-list-page`

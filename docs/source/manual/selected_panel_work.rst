@@ -110,3 +110,9 @@ Open task folder
 :guilabel:`Open task folder`
 
 Запуск проводника в папке данной задачи.
+
+
+Close
+~~~~~
+
+:guilabel:`Close` - вернёт на :ref:`tasks-list-page`
