@@ -9,19 +9,19 @@ Working Panel
 
 `Work panel (видео) <https://youtu.be/43lPkwNfywU>`_
 
-.. _work_panel_ftrack:
+.. _work_panel_cerebro:
 
-From Ftrack:
-------------
+From Cerebro:
+-------------
 
-Группа кнопок получения данных с *ftrack* полностью аналогична :ref:`selected_panel_cerebro`
+Группа кнопок получения данных с *Cerebro* полностью аналогична :ref:`selected_panel_cerebro`
 
 .. _work_panel_download_version:
 
 Download version
 ~~~~~~~~~~~~~~~~
 
-:guilabel:`Download version` - Загрузка версии активной задачи с *ftrack* на локальный компьютер пользователя, полностью аналогична :ref:`selected_panel_download_version`
+:guilabel:`Download version` - Загрузка версии активной задачи с *Cerebro* на локальный компьютер пользователя, полностью аналогична :ref:`selected_panel_download_version`
 
 .. _work_panel_sources:
 
@@ -33,7 +33,7 @@ Sources:
 Update incoming
 ~~~~~~~~~~~~~~~
 
-:guilabel:`Update incoming` - Загрузка с *ftrack* недостающих входящих компонентов для активной задачи, полностью аналогична :ref:`selected_panel_update_incoming`
+:guilabel:`Update incoming` - Загрузка с *Cerebro* недостающих входящих компонентов для активной задачи, полностью аналогична :ref:`selected_panel_update_incoming`
 
 .. _work_panel_sources_panel:
 
@@ -126,10 +126,10 @@ Edit textures
    work_panel/animatic_tools
 
 
-.. _work_panel_to_ftrack:
+.. _work_panel_to_cerebro:
 
-To Ftrack:
-----------
+To Cerebro:
+-----------
 
 .. _work_panel_check:
 
@@ -147,7 +147,7 @@ Check
 Commit
 ~~~~~~
 
-:guilabel:`Commit` - Фиксация изменений **top** версии, создание новой локальной версии, запуск фоновой загрузки версии на *ftrack*.
+:guilabel:`Commit` - Фиксация изменений **top** версии, создание новой локальной версии, запуск фоновой загрузки версии на *Cerebro*.
 
 * Если поставить галочку ``To Review`` то статус задачи изменится на *Pending Review* и создаваемая версия также будет в этом статусе.
 
@@ -166,7 +166,7 @@ Change status to "Pending Review"
 Playblast:
 ----------
 
-Создание и отправка версий плейбластов на *ftrack* с настройками проекта и шота.
+Создание и отправка версий плейбластов на *Cerebro* с настройками проекта и шота.
 
 .. image:: ../_static/images/working_panel_playblast.png
 

@@ -8,7 +8,7 @@ Checking Panel
 .. image:: ../_static/images/check_panel.png
 
 
-.. _check_panel_ftrack:
+.. _check_panel_cerebro:
 
 From Ftrack:
 ------------
