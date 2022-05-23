@@ -7,10 +7,10 @@ Selected Panel (Checking)
 
 .. image:: ../_static/images/check_selected_panel.png
 
-.. _check_selected_panel_cerebro:
+.. _check_selected_panel_from_cerebro:
 
 From Cerebro:
-------------
+-------------
 
 .. _check_selected_panel_download_version:
 
@@ -25,6 +25,14 @@ Update incoming
 ~~~~~~~~~~~~~~~
 
 :guilabel:`Update incoming` - Загрузка с *Cerebro* недостающих входящих компонентов для активной задачи.
+
+
+.. _check_selected_panel_source_panel:
+
+Sources panel
+~~~~~~~~~~~~~
+
+:guilabel:`Sources panel` - Открытие панели с перечнем исходников активной задачи, с возможностью загрузки ``collections`` по выбору из исходников в текущий рабочий файл.
 
 
 .. _check_selected_panel_local:
@@ -59,6 +67,6 @@ Open task folder
 
 
 Close
-~~~~~
+-----
 
 :guilabel:`Close` - вернёт на :ref:`tasks-list-page`

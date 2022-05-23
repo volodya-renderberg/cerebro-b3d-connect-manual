@@ -9,7 +9,7 @@ Selected Panel (Working)
 
 `Selected panel (видео) <https://youtu.be/Iav8T8ZGc5A>`_
 
-.. _selected_panel_cerebro:
+.. _selected_panel_from_cerebro:
 
 From Cerebro:
 -------------
@@ -30,6 +30,13 @@ Update incoming
 
 :guilabel:`Update incoming` - Загрузка с *Cerebro* недостающих входящих компонентов для активной задачи.
 
+.. _selected_panel_source_panel:
+
+Sources panel
+~~~~~~~~~~~~~
+
+:guilabel:`Sources panel` - Открытие панели с перечнем исходников активной задачи, с возможностью загрузки ``collections`` по выбору из исходников в текущий рабочий файл.
+
 .. _selected_panel_local:
 
 Local:
@@ -40,7 +47,7 @@ Local:
 *	Во все случаях:
 
 	*	открыта будет **top** версия рабочего файла.
-	*	статус задачи будет изменён на ``In progress``, при наличии другой задачи в таком статусе, она будет поставлена на паузу.
+	*	статус задачи будет изменён на ``в работе``, при наличии другой задачи в таком статусе, она будет поставлена на паузу.
 	*	будет открыта :ref:`work-panel-page`
 
 
@@ -64,7 +71,7 @@ Open from incoming
 	* клик по кнопке :guilabel:`Open`:
 
 		* скопирует файл из входящей задачи в **топ** версию текущей.
-		* изменит статус задачи на ``In progress``
+		* изменит статус задачи на ``в работе``
 		* Будет открыта :ref:`work-panel-page`
 
 
@@ -113,6 +120,6 @@ Open task folder
 
 
 Close
-~~~~~
+-----
 
 :guilabel:`Close` - вернёт на :ref:`tasks-list-page`
