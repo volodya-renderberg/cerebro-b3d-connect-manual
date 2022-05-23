@@ -10,28 +10,24 @@ Checking Panel
 
 .. _check_panel_cerebro:
 
-From Ftrack:
-------------
+From Cerebro:
+-------------
 
-
-Группа кнопок для взаимодействия с ftrack.
+Группа кнопок получения данных с *Cerebro*.
 
 .. _check_panel_download_version:
 
 Download version
 ~~~~~~~~~~~~~~~~
 
-:guilabel:`Download version` - Загрузка версии активной задачи с ftrack на локальный компьютер пользователя.
-
-Sources:
---------
+:guilabel:`Download version` - Загрузка версии активной задачи с *Cerebro* на локальный компьютер пользователя.
 
 .. _check_panel_update_incoming:
 
 Update incoming
 ~~~~~~~~~~~~~~~
 
-:guilabel:`Update incoming` - Загрузка с *ftrack* недостающих входящих компонентов для активной задачи, полностью аналогична :ref:`selected_panel_update_incoming`
+:guilabel:`Update incoming` - Загрузка с *Cerebro* недостающих входящих компонентов для активной задачи, полностью аналогична :ref:`selected_panel_update_incoming`
 
 .. _check_panel_sources_panel:
 
@@ -76,23 +72,17 @@ Check
 Notes:
 ------
 
+Чат по задаче.
+
 `(видео) <https://disk.yandex.ru/i/yRKNPQEyOGHjIw>`_
 
 
 .. _check_panel_open_last_commit_by_web:
 
-Open last Commit by web
-~~~~~~~~~~~~~~~~~~~~~~~
+Open by web
+~~~~~~~~~~~
 
-:guilabel:`Open last Commit by web` - Открывает обзор последней версии коммита ассета в вёб браузере.
-
-
-.. _check_panel_open_last_review_by_web:
-
-Open last Review by web
-~~~~~~~~~~~~~~~~~~~~~~~
-
-:guilabel:`Open last Review by web` - Открывает обзор последней версии ревью ассета в вёб браузере.
+:guilabel:`Open by web` - Открывает страницу задачи в вёб браузере.
 
 
 .. _check_panel_change_status:
@@ -104,31 +94,23 @@ Change status:
 
 .. _check_panel_status_to_rejected:
 
-to "Rejected"
-~~~~~~~~~~~~~
+На переработку
+~~~~~~~~~~~~~~~
 
-:guilabel:`to "Rejected"` - Отказано или на переработку.
-
-
-.. _check_panel_status_to_needs_attention:
-
-to "Needs attention"
-~~~~~~~~~~~~~~~~~~~~
-
-:guilabel:`to "Needs attention"` - Требует внимания или дальнейшего рассмотрения.
+:guilabel:`На переработку` - Отказано или на переработку.
 
 
-.. _check_panel_status_to_proposed_final:
+.. _check_panel_status_to_done_masters:
 
-to "Proposed final"
-~~~~~~~~~~~~~~~~~~~
+Принято. Режиссер
+~~~~~~~~~~~~~~~~~
 
-:guilabel:`to "Proposed final"` - Предложено как временный финал, но в дальнейшем будет доработано.
+:guilabel:`Принято. Режиссер` - принято режиссёром.
 
 
-.. _check_panel_status_to_approved:
+.. _check_panel_status_to_done:
 
-to "Approved"
-~~~~~~~~~~~~~
+Выполнена
+~~~~~~~~~
 
-:guilabel:`to "Approved"` - Принято.
+:guilabel:`Выполнена` - выполнена.
