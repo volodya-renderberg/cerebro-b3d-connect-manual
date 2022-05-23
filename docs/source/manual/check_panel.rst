@@ -63,8 +63,23 @@ Check
 
 * При обнаружении несоответствий, будет запущено информационное окно.
 
-.. image:: ../_static/images/check_window.png
+   .. image:: ../_static/images/check_window.png
 
+* :guilabel:`select` - кнопка на против каждого неисправного объекта в информационном окне:
+
+      * Выделит объект, если он выделяем.
+
+      * Создаст запись в ``Info`` панели или терминале, где можно выделить имя объекта для поиска в ``Outliner`` или ``Image Editor`` если это текстура.
+
+      .. image:: ../_static/images/check_wrong_info_panel.png
+
+
+.. _check_panel_open_task_folder:
+
+Open task folder
+~~~~~~~~~~~~~~~~
+
+:guilabel:`Open task folder` - Запуск проводника в папке данной задачи.
 
 
 .. _check_panel_notes:
@@ -87,8 +102,8 @@ Open by web
 
 .. _check_panel_change_status:
 
-Change status:
---------------
+Change status to:
+-----------------
 
 Кнопки меняющие статус данной задачи по результатам проверки.
 
