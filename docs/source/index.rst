@@ -21,3 +21,4 @@ Manual
    manual/check_panel
    manual/lcm
    manual/video
+   manual/task_templates
