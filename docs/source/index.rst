@@ -5,7 +5,7 @@ Manual
 
 `Общий обзор (видео) <https://youtu.be/R-c-LF7VbWM>`_
 
-`Установка обновление <https://www.notion.so/propls/Blender-Cerebro-b2e5fad019974df4ad8f2ffc590c9303>`_
+`Установка и обновление по последней версии git <https://www.notion.so/propls/Blender-Cerebro-b2e5fad019974df4ad8f2ffc590c9303>`_
 
 Содержание:
 
@@ -14,6 +14,7 @@ Manual
 
    manual/authentication
    manual/settings
+   manual/update
    manual/tasks_list
    manual/selected_panel_work
    manual/selected_panel_check
