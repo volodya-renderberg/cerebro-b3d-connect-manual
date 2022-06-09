@@ -12,6 +12,7 @@ Manual
 .. toctree::
    :maxdepth: 2
 
+   manual/install
    manual/authentication
    manual/settings
    manual/update
