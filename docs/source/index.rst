@@ -24,3 +24,4 @@ Manual
    manual/lcm
    manual/task_templates
    manual/video
+   manual/tech_functions
