@@ -117,7 +117,6 @@ Collect textures
 
 `Collect textures (видео) <https://youtu.be/iTCtTxtwsns>`_
 
-.. note:: Собираются только текстуры находящиеся за пределами :ref:`projects_folder_settings`.
 
 .. _work_panel_edit_textures:
 

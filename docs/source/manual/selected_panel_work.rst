@@ -74,6 +74,8 @@ Open from incoming
 		* изменит статус задачи на ``в работе``
 		* Будет открыта :ref:`work-panel-page`
 
+	.. note:: Пути на текстуры при этом будут ссылаться на исходную задачу, чтобы забрать текстуры надо воспользоваться функцией :ref:`work_panel_collect_textures`
+
 
 .. _selected_panel_current_scene_to_work:
 
