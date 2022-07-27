@@ -35,7 +35,14 @@ Update incoming
 Sources panel
 ~~~~~~~~~~~~~
 
-:guilabel:`Sources panel` - Открытие панели с перечнем исходников активной задачи, с возможностью загрузки ``collections`` по выбору из исходников в текущий рабочий файл.
+:guilabel:`Sources panel` - открытие панели где возможны загрузка компонентов исходников в сцену, а так же перезагрузка версий исходников. Полное описание см. тут :ref:`work_panel_source_panel`
+
+.. _selected_panel_open_last_commit_by_web:
+
+Open by WEB
+~~~~~~~~~~~
+
+:guilabel:`Open by web` - Открывает страницу задачи в вёб браузере.
 
 .. _selected_panel_local:
 

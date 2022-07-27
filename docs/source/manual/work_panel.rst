@@ -35,7 +35,38 @@ Update incoming
 Sources panel
 ~~~~~~~~~~~~~
 
-:guilabel:`Sources panel` - Открытие панели с перечнем исходников активной задачи, с возможностью загрузки ``collections`` по выбору из исходников в текущий рабочий файл.
+   :guilabel:`Sources panel` - открытие панели где возможны загрузка компонентов исходников в сцену, а так же перезагрузка версий исходников.
+
+   Запускаемая панель:
+
+   .. image:: ../_static/images/source_panel.png
+
+   Столбцы панели в порядке следования слева на право: 
+
+   #. имя ассета
+   #. имя задачи
+   #. свежесть версии (*missing*, *old*, *latest*)
+   #. кнопка :guilabel:`Add`
+   #. кнопка :guilabel:`Reload version`
+
+   :guilabel:`Add` - активна только приналичии какой либо версии, откроет список коллекций файла версии и две возможности загрузки, сделать ``link`` или ``append``.
+
+   .. image:: ../_static/images/source_panel_add_panel.png
+
+
+   :guilabel:`Reload version` - откроет список версий входящей задачи на сервере с возможностью загрузки.
+
+   .. image:: ../_static/images/source_panel_reload_versio_panel.png
+
+   Клик по кнопке :guilabel:`Download` загрузит указанную версию на компьютер пользователя. Данная загрузка не локализуется текущей задачей, а будет доступна для всех задач которые ссылаются на этот исходник.
+
+
+.. _work_panel_open_last_commit_by_web:
+
+Open by WEB
+~~~~~~~~~~~
+
+:guilabel:`Open by web` - Открывает страницу задачи в вёб браузере.
 
 .. _work_panel_fix_scene:
 
@@ -85,24 +116,6 @@ Open task folder
 :guilabel:`Open task folder` - Запуск проводника в папке данной задачи.
 
 .. _work_panel_textures:
-
-
-.. _work_panel_notes:
-
-Notes:
-------
-
-Чат по задаче.
-
-`(видео) <https://disk.yandex.ru/i/yRKNPQEyOGHjIw>`_
-
-
-.. _work_panel_open_last_commit_by_web:
-
-Open by web
-~~~~~~~~~~~
-
-:guilabel:`Open by web` - Открывает страницу задачи в вёб браузере.
 
 
 Textures:
@@ -172,6 +185,10 @@ Commit
 * Если поставить галочку ``To Review`` то статус задачи изменится на *на утверждение* при этом будет выполнена процедура :ref:`work_panel_check`.
 
 .. image:: ../_static/images/commit_to_review.png
+
+* Для некоторых задач панель коммита содержит галочку ``Push to cerebro``, если её снять то версия не будет отправляться на сервер, а будет только локальной.
+
+.. image:: ../_static/images/commit_push_to_cerebro.png
 
 .. _work_panel_change_status_to_pending_review:
 

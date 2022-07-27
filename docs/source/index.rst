@@ -25,3 +25,4 @@ Manual
    manual/task_templates
    manual/video
    manual/tech_functions
+   manual/links_of_tasks
