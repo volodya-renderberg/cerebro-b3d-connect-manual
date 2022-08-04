@@ -13,6 +13,10 @@
 
 * `Особенсти линкования в локацию и шот <https://youtu.be/840F72LfImM>`_
 
+* `Добавление пропсов в локацию <https://disk.yandex.ru/i/gFKU9LpWO4hEcQ>`_
+
+* `Сборка шота <https://disk.yandex.ru/i/pL5ZYg8rk53fjA>`_
+
 * `Взятие в работу шота с загрузкой исходников <https://youtu.be/xQ0Fqmj_Pvo>`_
 
 * `Сборка текстур <https://youtu.be/iTCtTxtwsns>`_
