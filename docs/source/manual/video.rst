@@ -11,8 +11,6 @@
 
 * `Рабочая панель задачи <https://youtu.be/43lPkwNfywU>`_
 
-* `Особенсти линкования в локацию и шот <https://youtu.be/840F72LfImM>`_
-
 * `Добавление пропсов в локацию <https://disk.yandex.ru/i/gFKU9LpWO4hEcQ>`_
 
 * `Сборка шота <https://disk.yandex.ru/i/pL5ZYg8rk53fjA>`_
