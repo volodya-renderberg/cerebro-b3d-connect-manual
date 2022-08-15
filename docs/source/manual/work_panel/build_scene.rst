@@ -7,9 +7,9 @@ Build Scene
 
 .. image:: ../../_static/images/build_scene.png
 
-`Build scene (видео) <https://disk.yandex.ru/d/odWN6S6m7nBcbQ>`_
+`Build scene видео <https://disk.yandex.ru/d/odWN6S6m7nBcbQ>`_
 
-`Билд сцены при отсутствии *commit_data.json* (видео) <https://disk.yandex.ru/i/hChfAc7wYBup_Q>`_
+`Починка билда видео <https://disk.yandex.ru/i/hChfAc7wYBup_Q>`_
 
 
 * Перед сборкой:
