@@ -8,9 +8,14 @@ Build Scene
 .. image:: ../../_static/images/build_scene.png
 
 
-`Build scene <https://disk.yandex.ru/d/odWN6S6m7nBcbQ>`_
+Build scene video1_
 
-`Билд сцены при отсутствии commit_data.json <https://disk.yandex.ru/i/hChfAc7wYBup_Q>`_
+Build scene при отсутствии commit_data.json video2_
+
+
+.. _video1: https://disk.yandex.ru/d/odWN6S6m7nBcbQ
+
+.. _video2: https://disk.yandex.ru/i/hChfAc7wYBup_Q
 
 
 * Перед сборкой:
