@@ -7,13 +7,9 @@ Build Scene
 
 .. image:: ../../_static/images/build_scene.png
 
-Процедура сборки video_
+`Build scene (видео) <https://disk.yandex.ru/d/odWN6S6m7nBcbQ>`_
 
-Починка сцены fix_video_
-
-.. _video: https://disk.yandex.ru/d/odWN6S6m7nBcbQ
-
-.. _fix_video: https://disk.yandex.ru/i/hChfAc7wYBup_Q
+`Билд сцены при отсутствии commit_data.json (видео) <https://disk.yandex.ru/i/hChfAc7wYBup_Q>`_
 
 
 * Перед сборкой:
