@@ -19,6 +19,8 @@
 
 * `Build scene <https://disk.yandex.ru/d/odWN6S6m7nBcbQ>`_
 
+* `Билд сцены при отсутствии commit_data.json <https://disk.yandex.ru/i/hChfAc7wYBup_Q>`_
+
 * `Сборка текстур <https://youtu.be/iTCtTxtwsns>`_
 
 * `Редактирование текстур <https://youtu.be/pwS9yW_cA9s>`_
