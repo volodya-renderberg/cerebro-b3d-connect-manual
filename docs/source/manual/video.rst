@@ -17,7 +17,7 @@
 
 * `Сборка шота для выдачи на удалёнку без серебры <https://disk.yandex.ru/i/VL5M1rR4BF4T4w>`_
 
-* `Взятие в работу шота с загрузкой исходников <https://youtu.be/xQ0Fqmj_Pvo>`_
+* `Build scene <https://disk.yandex.ru/d/odWN6S6m7nBcbQ>`_
 
 * `Сборка текстур <https://youtu.be/iTCtTxtwsns>`_
 
