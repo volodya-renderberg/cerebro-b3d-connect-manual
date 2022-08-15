@@ -9,7 +9,7 @@ Build Scene
 
 `Build scene (видео) <https://disk.yandex.ru/d/odWN6S6m7nBcbQ>`_
 
-`Билд сцены при отсутствии commit_data.json (видео) <https://disk.yandex.ru/i/hChfAc7wYBup_Q>`_
+`Билд сцены при отсутствии *commit_data.json* (видео) <https://disk.yandex.ru/i/hChfAc7wYBup_Q>`_
 
 
 * Перед сборкой:
