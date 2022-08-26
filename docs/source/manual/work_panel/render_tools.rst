@@ -23,7 +23,7 @@ Settings
 
 * Выставляет тайминг по параметрам шота.
 
-* Прописывает пути в параметре ``base_path`` всех нод **file_output** по шаблону: ``AssetName`` _ v ``N`` _ ``ThisNodeLabel``
+* Прописывает пути в параметре ``base_path`` всех нод **file_output** по шаблону: //render_output/ ``AssetName`` _ v ``N`` _ ``ThisNodeLabel``
 
     * где ``N`` - номер будущего коммита.
 
