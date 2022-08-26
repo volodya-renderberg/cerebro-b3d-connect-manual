@@ -150,6 +150,7 @@ Edit textures
    work_panel/animation_tools
    work_panel/animatic_tools
    work_panel/build_scene
+   work_panel/render_tools
 
 
 .. _work_panel_to_cerebro:
