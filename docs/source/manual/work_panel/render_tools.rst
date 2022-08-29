@@ -23,7 +23,20 @@ Settings
 
 * Выставляет тайминг по параметрам шота.
 
-* Прописывает пути в параметре ``base_path`` всех нод **file_output** по шаблону: //render_output/ ``AssetName`` _ v ``N`` _ ``ThisNodeLabel``
+* Прописывает пути во всех нодах **file_output** по шаблонам:
+    
+    * для **OPEN_EXR_MULTILAYER**: 
 
-    * где ``N`` - номер будущего коммита.
+        * в параметре ``base_path`` : //render_output/ v ``N`` / ``AssetName`` _ v ``N`` _ ``ThisNodeLabel`` _#####
 
+        .. image:: ../../_static/images/exr_multilayer_node_path.png    
+
+    * для остальных типов:
+
+        * в параметре ``base_path`` : //render_output/ v ``N`` /
+
+        * в ``file_slots[0].path`` : ``AssetName`` _ v ``N`` _ ``ThisNodeLabel`` _#####
+
+        .. image:: ../../_static/images/png_node_path.png
+
+    .. note:: где ``N`` - номер будущего коммита.
