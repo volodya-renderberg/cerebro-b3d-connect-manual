@@ -11,4 +11,5 @@
    tech_function/rnd_api
    tech_function/assets_migration
    tech_function/mass_links
+   tech_function/copy_incoming_links
    tech_function/commit_zip
