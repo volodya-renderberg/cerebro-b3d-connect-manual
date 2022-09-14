@@ -12,4 +12,5 @@
    tech_function/assets_migration
    tech_function/mass_links
    tech_function/copy_incoming_links
+   tech_function/remove_incoming_links_from_shot
    tech_function/commit_zip

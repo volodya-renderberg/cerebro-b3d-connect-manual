@@ -13,9 +13,9 @@
 
 * `Добавление пропсов в локацию <https://disk.yandex.ru/i/gFKU9LpWO4hEcQ>`_
 
-* `Сборка шота <https://disk.yandex.ru/i/pL5ZYg8rk53fjA>`_
-
 * `Сборка шота для выдачи на удалёнку без серебры <https://disk.yandex.ru/i/VL5M1rR4BF4T4w>`_
+
+* `Удаление лишних входящих связей из шота <https://disk.yandex.ru/i/hf5IFgzAFNDX3A>`_
 
 * `Build scene <https://disk.yandex.ru/d/odWN6S6m7nBcbQ>`_
 
