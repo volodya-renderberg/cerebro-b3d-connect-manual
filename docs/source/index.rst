@@ -22,6 +22,7 @@ Manual
    manual/work_panel
    manual/check_panel
    manual/lcm
+   manual/processes
    manual/task_templates
    manual/video
    manual/tech_functions

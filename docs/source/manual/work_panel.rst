@@ -143,6 +143,8 @@ Edit textures
 `Edit textures (видео) <https://youtu.be/pwS9yW_cA9s>`_
 
 
+.. _work_panel_tech_functions:
+
 Специфичные для типов задач панели:
 -----------------------------------
 
