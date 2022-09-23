@@ -7,4 +7,5 @@
    :maxdepth: 1
 
    processes/common
+   processes/files
    processes/animation
