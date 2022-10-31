@@ -9,3 +9,4 @@
    processes/common
    processes/files
    processes/animation
+   processes/animation_at_outsource
