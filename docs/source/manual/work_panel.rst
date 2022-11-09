@@ -230,6 +230,10 @@ Local playblast
 
 :guilabel:`Local playblast` - Создание плейбласта без отправки версии, но с сохранением по настройкам.
 
+.. note:: Автоматически выставляются настройки **output** но тайминг на совести аниматора.
+
+.. _work_panel_playblast_playblast_to_version:
+
 Playblast to version
 ~~~~~~~~~~~~~~~~~~~~
 
@@ -246,6 +250,8 @@ Playblast to version
 * **Description** - обязательное для заполнения поле с кратким комментарием для данной версии.
 
 * **Make commit** - если ``True`` то будет так же сделан и :ref:`work_panel_commit`, по умолчанию ``True``.
+
+.. note:: Автоматически выставляются и настройки **output** и тайминг шота.
 
 
 Close
