@@ -9,6 +9,8 @@ Working Panel
 
 `Work panel (видео) <https://youtu.be/43lPkwNfywU>`_
 
+-----------
+
 .. _work_panel_from_cerebro:
 
 From Cerebro:
@@ -80,6 +82,8 @@ Open by WEB
 
 :guilabel:`Open by web` - Открывает страницу задачи в вёб браузере.
 
+-----------
+
 .. _work_panel_fix_scene:
 
 Fix scene:
@@ -104,6 +108,8 @@ Set position
 
 :guilabel:`Set position` - применяет из текстового файла положения линкованных объектов и соответствующие им анимационные экшены, анимационные экшены должны присутствовать в сцене.
 
+-----------
+
 .. _work_panel_local:
 
 Local:
@@ -127,8 +133,9 @@ Open task folder
 
 :guilabel:`Open task folder` - Запуск проводника в папке данной задачи.
 
-.. _work_panel_textures:
+-----------
 
+.. _work_panel_textures:
 
 Textures:
 ---------
@@ -152,6 +159,7 @@ Edit textures
 
 `Edit textures (видео) <https://youtu.be/pwS9yW_cA9s>`_
 
+-----------
 
 .. _work_panel_tech_functions:
 
@@ -166,6 +174,7 @@ Edit textures
    work_panel/build_scene
    work_panel/render_tools
 
+-----------
 
 .. _work_panel_to_cerebro:
 
@@ -196,7 +205,10 @@ Check
 Commit
 ~~~~~~
 
-:guilabel:`Commit` - Фиксация изменений **top** версии, создание новой локальной версии, запуск фоновой загрузки версии на *Cerebro*.
+:guilabel:`Commit` - Фиксация изменений **top** версии:
+
+   * создание новой локальной версии
+   * запуск фоновой загрузки версии на *Cerebro*.
 
 .. note:: коммит использует именно *top* версию, если текущая сцена была по каким-то целям переименована, то её надо переименовать обратно как топ версию - ``AssetName.blend``
 
@@ -215,6 +227,7 @@ Change status to "на утверждение"
 
 :guilabel:`Change status to "на утверждение"` - Изменение статуса на *на утверждение* без создания версии.
 
+-----------
 
 .. _work_panel_playblast:
 
@@ -255,6 +268,7 @@ Playblast to version
 
 .. note:: Автоматически выставляются и настройки **output** и тайминг шота.
 
+-----------
 
 Close
 -----
