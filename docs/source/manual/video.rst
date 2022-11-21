@@ -11,7 +11,7 @@
 
 * `Рабочая панель задачи <https://youtu.be/43lPkwNfywU>`_
 
-* `Добавление пропсов в локацию <https://disk.yandex.ru/i/gFKU9LpWO4hEcQ>`_
+* `Добавление пропсов в локацию <https://disk.yandex.ru/i/qIXXqcKPd5Ip1A>`_
 
 * `Сборка шота для выдачи на удалёнку без серебры <https://disk.yandex.ru/i/wdA_PAdS5YDigQ>`_
 
