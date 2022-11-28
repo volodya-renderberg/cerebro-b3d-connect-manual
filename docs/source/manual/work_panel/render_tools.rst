@@ -23,6 +23,8 @@ Settings
 
 * Выставляет тайминг по параметрам шота.
 
+* Выставляет ``clip_start``, ``clip_end`` текущей камеры по параметрам шота.
+
 * Прописывает пути во всех нодах **file_output** по шаблонам:
     
     * для **OPEN_EXR_MULTILAYER**: 
@@ -40,3 +42,9 @@ Settings
         .. image:: ../../_static/images/png_node_path.png
 
     .. note:: где ``N`` - номер будущего коммита.
+
+
+Save clipping of Shot Camera (to cerebro)
+-----------------------------------------
+
+:guilabel:`Save clipping of Shot Camera (to cerebro)` - сохранение в настройки шота параметров ``clip_start``, ``clip_end`` текущей камеры шота.
