@@ -3,7 +3,7 @@
 Checking Panel
 ==============
 
-Панель отображаемая когда файл активной задачи ткрыт для проверки в :ref:`tasks_list_role` ``Cheking``.
+Панель отображаемая когда файл активной задачи открыт для проверки в :ref:`tasks_list_role` ``Cheking``.
 
 .. image:: ../_static/images/check_panel.png
 
