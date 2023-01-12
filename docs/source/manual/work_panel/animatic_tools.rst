@@ -231,35 +231,4 @@ Edit shot content
 Change status:
 ~~~~~~~~~~~~~~
 
-Кнопки меняющие статус как последнего ревью так и задачи выделенного шота.
-
-.. _animatic_tools_status_to_rejected:
-
-to "Rejected"
-*************
-
-:guilabel:`to "Rejected"` - Отказано или на переработку.
-
-
-.. _animatic_tools_status_to_needs_attention:
-
-to "Needs attention"
-********************
-
-:guilabel:`to "Needs attention"` - Требует внимания или дальнейшего рассмотрения.
-
-
-.. _animatic_tools_status_to_proposed_final:
-
-to "Proposed final"
-*******************
-
-:guilabel:`to "Proposed final"` - Предложено как временный финал, но в дальнейшем будет доработано.
-
-
-.. _animatic_tools_status_to_approved:
-
-to "Approved"
-*************
-
-:guilabel:`to "Approved"` - Принято.
+Кнопки меняющие статус задачи в которой был сделан последнего ревью шота.
