@@ -212,10 +212,18 @@ Checking shot:
 
 .. _animatic_tools_open_last_review_by_web:
 
-Open last Review by web
+Open this Shot by WEB
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-:guilabel:`Open last Review by web` - Открывает обзор последней версии ревью выделенного шота в вёб браузере.
+:guilabel:`Open this Shot by WEB` - Открывает обзор выделенного шота в вёб браузере.
+
+
+.. _animatic_tools_edit_shot_content:
+
+Edit shot content
+~~~~~~~~~~~~~~~~~~~~~~~
+
+:guilabel:`Edit shot content` - Запускает панель редактирования контента активного шота.
 
 
 .. _animatic_tools_change_status:
