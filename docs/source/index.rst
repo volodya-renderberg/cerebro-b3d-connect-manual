@@ -26,4 +26,5 @@ Manual
    manual/task_templates
    manual/video
    manual/tech_functions
+   manual/faq
    manual/links_of_tasks

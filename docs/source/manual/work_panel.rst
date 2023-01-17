@@ -25,12 +25,6 @@ Download version
 
 :guilabel:`Download version` - Загрузка версии активной задачи с *Cerebro* на локальный компьютер пользователя, полностью аналогична :ref:`selected_panel_download_version`
 
-.. _work_panel_update_incoming:
-
-Update incoming
-~~~~~~~~~~~~~~~
-
-:guilabel:`Update incoming` - Загрузка с *Cerebro* недостающих входящих компонентов для активной задачи, полностью аналогична :ref:`selected_panel_update_incoming`
 
 .. _work_panel_source_panel:
 
