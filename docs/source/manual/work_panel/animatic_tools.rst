@@ -96,6 +96,23 @@ Create Shots
     * Создание шотов длительный процесс, и может случится разное, поэтому рекомендуется создавать небольшими пакетами, число по умолчанию 10. После каждого цикла делать обязательный сейв.
     * Число создаваемых шотов можно указать любое, но будет использовано ближайшее чётное, для правильного чередования мувиков на дорожках в секвенсоре.
 
+.. _animatic_tools_export_animatic_data:
+
+Export animatic data:
+---------------------
+
+Экспорт различных данных в текстовые файлы.
+
+Export shots timing to .csv
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+:guilabel:`Export shots timing to .csv` - запись в файл таблицы с данными начальных и конечных кадров шотов.
+
+* Название файла ``[Episode_name]_shots_timing.csv``.
+* Колонки таблицы: ``name``, ``start``, ``end``.
+* Сохранение файла в папке ``meta`` директории задачи :ref:`files_task_folder`.
+
+
 .. _animatic_tools_edit_shots:
 
 Edit Shots:
@@ -190,15 +207,23 @@ Checking shot:
 
 `(видео) <https://disk.yandex.ru/i/7RIwxp8Z9Z2uYw>`_
 
-Инструменты для принимающего анимационные шоты: переписка по шотам и смена статуса. Содержимое заполняется для выделенного шота.
+Всевозможные манипуляции с выделенным шотом: запуск чата в браузере, смена статуса, редактирование входящих связей (контента).
 
 
 .. _animatic_tools_open_last_review_by_web:
 
-Open last Review by web
+Open this Shot by WEB
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-:guilabel:`Open last Review by web` - Открывает обзор последней версии ревью выделенного шота в вёб браузере.
+:guilabel:`Open this Shot by WEB` - Открывает обзор выделенного шота в вёб браузере.
+
+
+.. _animatic_tools_edit_shot_content:
+
+Edit shot content
+~~~~~~~~~~~~~~~~~~~~~~~
+
+:guilabel:`Edit shot content` - Запускает панель редактирования контента активного шота.
 
 
 .. _animatic_tools_change_status:
@@ -206,35 +231,4 @@ Open last Review by web
 Change status:
 ~~~~~~~~~~~~~~
 
-Кнопки меняющие статус как последнего ревью так и задачи выделенного шота.
-
-.. _animatic_tools_status_to_rejected:
-
-to "Rejected"
-*************
-
-:guilabel:`to "Rejected"` - Отказано или на переработку.
-
-
-.. _animatic_tools_status_to_needs_attention:
-
-to "Needs attention"
-********************
-
-:guilabel:`to "Needs attention"` - Требует внимания или дальнейшего рассмотрения.
-
-
-.. _animatic_tools_status_to_proposed_final:
-
-to "Proposed final"
-*******************
-
-:guilabel:`to "Proposed final"` - Предложено как временный финал, но в дальнейшем будет доработано.
-
-
-.. _animatic_tools_status_to_approved:
-
-to "Approved"
-*************
-
-:guilabel:`to "Approved"` - Принято.
+Кнопки меняющие статус задачи в которой был сделан последний ревью шота.
