@@ -48,3 +48,14 @@ Save clipping of Shot Camera (to cerebro)
 -----------------------------------------
 
 :guilabel:`Save clipping of Shot Camera (to cerebro)` - сохранение в настройки шота параметров ``clip_start``, ``clip_end`` текущей камеры шота.
+
+.. _link_world_from_location:
+
+Link World from Location
+-------------------------
+
+:guilabel:`Link World from Location` - запустит панельку со списком входящих локаций данного шота (как правило одна)
+
+.. image:: ../../_static/images/render_tools_link_world_from_location.png
+
+:guilabel:`Link World` - залинкует все ``World`` объекты из этой локации.
