@@ -54,6 +54,8 @@ Save clipping of Shot Camera (to cerebro)
 Link World from Location
 -------------------------
 
+Линкование ``World`` объектов из входящей локации шота.
+
 :guilabel:`Link World from Location` - запустит панельку со списком входящих локаций данного шота (как правило одна)
 
 .. image:: ../../_static/images/render_tools_link_world_from_location.png
