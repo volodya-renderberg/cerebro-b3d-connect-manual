@@ -28,3 +28,11 @@
 * `Перезагрузка поломанных пропсов в локации <https://disk.yandex.ru/i/D3NtrMghoadECA>`_
 
 * `Child_of ON/OFF <https://disk.yandex.ru/i/a6lloZysHRQzuw>`_
+
+* `Обновление аниматика <https://disk.yandex.ru/i/m_dqSoPGYtTEhQ>`_
+
+* `Обновление звуковой дорожки аниматика <https://disk.yandex.ru/i/1vLi0q7w-YW8Gw>`_
+
+* `Изменение длительности шота <https://disk.yandex.ru/i/nIPiFoNY_rAUaw>`_
+
+* `Разрезание шота на несколько частей <https://disk.yandex.ru/i/vs7TpmcbeAXsXA>`_

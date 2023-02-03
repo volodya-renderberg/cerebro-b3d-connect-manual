@@ -7,6 +7,6 @@
    :maxdepth: 1
 
    animatic/slicing
+   animatic/change_animatic
    animatic/slicing_shot
    animatic/retiming_shot
-   animatic/change_animatic
