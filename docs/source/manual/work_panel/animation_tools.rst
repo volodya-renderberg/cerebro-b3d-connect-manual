@@ -7,20 +7,6 @@ Animation tools
 
 .. image:: ../../_static/images/animation_tools.png
 
-.. _animation_tools_refresh_proxy:
-
-Refresh proxy
-~~~~~~~~~~~~~
-
-:guilabel:`Refresh proxy` - Пересоздаёт выделенный прокси с сохранением положения и анимационного экшена.
-
-`Refresh proxy (видео) <https://youtu.be/zato5UMp3Yg>`_
-
-* Копирует ``child_off`` констрейн на **root** контрол и на сам прокси объект(если есть).
-* При наличаи ``child_off`` констрейна:
-    * функцию лучше всего производить в первом кадре, до начала анимации,
-    * после выполнения функции сделать ``Set Inverse`` в самом констрейне.
-
 
 .. _animation_tools_download_animatic:
 
@@ -36,3 +22,25 @@ Download animatic
 
     .. image:: ../../_static/images/animatic_bg_images.png
 
+
+.. _import_animation_from_incoming_task:
+
+Import animation from incoming task
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Импорт анимации из входящей задачи.
+
+* Забирается анимация и полностью заменяется коллекция **Excipients**.
+
+
+.. _animation_tools_child_of_on_off:
+
+Child OFF
+~~~~~~~~~~~
+
+Постановка ключей на включение-отключение констрейна **Child_of**, а так же на сам контрол, таким образом, чтобы анимация 
+восстанавливалась при :ref:`build-scene-page`.
+
+Кнопки :guilabel:`ON` :guilabel:`OFF`
+
+`Видео <https://disk.yandex.ru/i/a6lloZysHRQzuw>`_

@@ -24,3 +24,7 @@
 * `Сборка текстур <https://youtu.be/iTCtTxtwsns>`_
 
 * `Редактирование текстур <https://youtu.be/pwS9yW_cA9s>`_
+
+* `Перезагрузка поломанных пропсов в локации <https://disk.yandex.ru/i/D3NtrMghoadECA>`_
+
+* `Child_of ON/OFF <https://disk.yandex.ru/i/a6lloZysHRQzuw>`_
