@@ -38,9 +38,9 @@ Import animation from incoming task
 Child OFF
 ~~~~~~~~~~~
 
+`Видео <https://disk.yandex.ru/i/a6lloZysHRQzuw>`_
+
 Постановка ключей на включение-отключение констрейна **Child_of**, а так же на сам контрол, таким образом, чтобы анимация 
 восстанавливалась при :ref:`build-scene-page`.
 
 Кнопки :guilabel:`ON` :guilabel:`OFF`
-
-`Видео <https://disk.yandex.ru/i/a6lloZysHRQzuw>`_
