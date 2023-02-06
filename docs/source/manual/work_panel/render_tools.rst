@@ -61,3 +61,13 @@ Link World from Location
 .. image:: ../../_static/images/render_tools_link_world_from_location.png
 
 :guilabel:`Link World` - залинкует все ``World`` объекты из этой локации.
+
+
+.. _objects_to_render_collections:
+
+Objects to render collection
+------------------------------
+
+Кнопка :guilabel:`Link World from Location` - добавляет коллекции выбранных объектов в коллекцию **Props_to_Render**
+
+При отсутствии эта коллекция создаётся.
