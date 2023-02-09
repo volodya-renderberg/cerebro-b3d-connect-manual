@@ -12,3 +12,4 @@
    processes/animation_at_outsource
    processes/checking
    processes/animatic
+   processes/copy_location
