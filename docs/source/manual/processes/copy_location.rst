@@ -8,8 +8,8 @@
 Команды в терминале для этой задачи
 -----------------------------------
 
-Получение id текущего ассета
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Получение ``ID`` текущего ассета
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. code-block::
 
@@ -21,4 +21,12 @@
 .. code-block::
 
    bpy.ops.cerebro.copy_incoming_links("INVOKE_DEFAULT")
+
+
+Переименовывание ``root`` колекции локации
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. code-block::
+
+    import os; bpy.context.collection.name=f"{os.environ['CEREBRO_B3D_CURRENT_ASSET_NAME']}_rig"
 
