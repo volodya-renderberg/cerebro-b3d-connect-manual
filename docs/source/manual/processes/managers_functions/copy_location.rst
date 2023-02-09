@@ -13,7 +13,7 @@
 
 .. code-block::
 
-    import os; os.environ["CEREBRO_B3D_CURRENT_ASSET_ID"]
+    import os; int(os.environ["CEREBRO_B3D_CURRENT_ASSET_ID"])
 
 Запуск панели копирования входящих связей
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
