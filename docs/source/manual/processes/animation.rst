@@ -82,7 +82,9 @@
         
             .. image:: ../../_static/images/animation_tools_child_of.png
             
-            `Видео <https://disk.yandex.ru/i/a6lloZysHRQzuw>`_
+            `Видео база <https://disk.yandex.ru/i/a6lloZysHRQzuw>`_
+            
+            `Видео изменение стартового положения <https://disk.yandex.ru/i/m36XgFy9SX3wfw>`_
 
 
 Копии ассетов
