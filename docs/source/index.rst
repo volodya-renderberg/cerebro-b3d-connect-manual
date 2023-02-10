@@ -3,9 +3,6 @@
 Manual
 ======
 
-Быстрый старт
--------------
-
 .. toctree::
    :maxdepth: 1
    :caption: БЫСТРЫЙ СТАРТ
@@ -15,8 +12,6 @@ Manual
    manual/settings
    manual/update
 
-Интерфейс
------------------
 
 .. toctree::
    :maxdepth: 1
@@ -28,8 +23,6 @@ Manual
    manual/work_panel
    manual/check_panel
 
-Виды деятельности
-------------------
 
 .. toctree::
    :maxdepth: 1
@@ -42,8 +35,6 @@ Manual
    manual/processes/animatic
    manual/processes/managers_functions
 
-Общее структурное
------------------
 
 .. toctree::
    :maxdepth: 1
@@ -53,8 +44,6 @@ Manual
    manual/links_of_tasks
    manual/task_templates
    
-FAQ
------------------
 
 .. toctree::
    :maxdepth: 1
