@@ -8,6 +8,7 @@ Manual
 
 .. toctree::
    :maxdepth: 1
+   :caption: БЫСТРЫЙ СТАРТ
 
    manual/install
    manual/authentication
@@ -19,6 +20,7 @@ Manual
 
 .. toctree::
    :maxdepth: 1
+   :caption: ИНТЕРФЕЙС
 
    manual/tasks_list
    manual/selected_panel_work
@@ -31,6 +33,7 @@ Manual
 
 .. toctree::
    :maxdepth: 1
+   :caption: ВИДЫ ДЕЯТЕЛЬНОСТИ
    
    manual/processes/common
    manual/processes/animation
@@ -44,6 +47,7 @@ Manual
 
 .. toctree::
    :maxdepth: 1
+   :caption: ОБЩЕЕ СТРУКТУРНОЕ
 
    manual/processes/files
    manual/links_of_tasks
@@ -54,5 +58,6 @@ FAQ
 
 .. toctree::
    :maxdepth: 1
+   :caption: FAQ
 
    manual/faq
