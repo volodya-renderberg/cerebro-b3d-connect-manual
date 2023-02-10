@@ -11,14 +11,14 @@
 Получение ``ID`` текущего ассета
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. code-block::
+.. code-block:: python
 
     import os; int(os.environ["CEREBRO_B3D_CURRENT_ASSET_ID"])
 
 Запуск панели копирования входящих связей
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. code-block::
+.. code-block:: python
 
    bpy.ops.cerebro.copy_incoming_links("INVOKE_DEFAULT")
 
@@ -26,7 +26,7 @@
 Переименовывание ``root`` колекции локации
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. code-block::
+.. code-block:: python
 
     import os; bpy.context.collection.name=f"{os.environ['CEREBRO_B3D_CURRENT_ASSET_NAME']}_rig"
 
