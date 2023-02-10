@@ -8,7 +8,7 @@
 Команда запуска:
 -----------------
 
-.. code-block::
+.. code-block:: python
 
    bpy.ops.cerebro.copy_incoming_links("INVOKE_DEFAULT")
 
@@ -21,7 +21,7 @@
 Запускаемая командой панель:
 -----------------------------
 
-.. image:: ../../_static/images/copy_incoming_links_panel.png
+.. image:: ../../../../_static/images/copy_incoming_links_panel.png
 
 * В поле **Source task ID** надо указать ``id`` ассета или задачи чьи входящие связи копируются.
 
@@ -31,5 +31,5 @@
 
    Простым копированием в адресной строке браузера, только надо убедится, что активна именно эта задача или ассет.
 
-   .. image:: ../../_static/images/get_folder_id.png
+   .. image:: ../../../../_static/images/get_folder_id.png
 

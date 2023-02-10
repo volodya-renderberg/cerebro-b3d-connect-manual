@@ -7,7 +7,7 @@
 
 Команда запуска:
 
-.. code-block::
+.. code-block:: python
 
    bpy.ops.cerebro.commit_zip('INVOKE_DEFAULT')
 
@@ -19,7 +19,7 @@
 
 Запускаемая командой панель:
 
-.. image:: ../../_static/images/commit_zip.png
+.. image:: ../../../../_static/images/commit_zip.png
 
 
 * Надо написать короткий коментарий в *Description* 

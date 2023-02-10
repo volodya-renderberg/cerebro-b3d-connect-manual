@@ -3,28 +3,56 @@
 Manual
 ======
 
-`Общий обзор (видео) <https://youtu.be/R-c-LF7VbWM>`_
-
-.. note:: Видео сделано для *Ftrack* плагина, но функционал и суть с точки зрения пользователя не изменились.
-
-Содержание:
+Быстрый старт
+-------------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    manual/install
    manual/authentication
    manual/settings
    manual/update
+
+Интерфейс
+-----------------
+
+.. toctree::
+   :maxdepth: 1
+
    manual/tasks_list
    manual/selected_panel_work
    manual/selected_panel_check
    manual/work_panel
    manual/check_panel
-   manual/lcm
-   manual/processes
-   manual/task_templates
-   manual/video
-   manual/tech_functions
-   manual/faq
+
+Виды деятельности
+------------------
+
+.. toctree::
+   :maxdepth: 1
+   
+   manual/processes/common
+   manual/processes/animation
+   manual/processes/animation_at_outsource
+   manual/processes/checking
+   manual/processes/animatic
+   manual/processes/managers_functions
+
+Общее структурное
+-----------------
+
+.. toctree::
+   :maxdepth: 1
+
+   manual/processes/files
    manual/links_of_tasks
+   manual/task_templates
+   
+FAQ
+-----------------
+
+.. toctree::
+   :maxdepth: 1
+
+   manual/faq

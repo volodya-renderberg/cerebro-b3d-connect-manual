@@ -5,7 +5,7 @@
 
 Команда запуска:
 
-.. code-block::
+.. code-block:: python
 
    bpy.ops.cerebro.api()
 

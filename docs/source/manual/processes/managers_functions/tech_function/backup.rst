@@ -5,13 +5,13 @@
 
 Команда запуска:
 ----------------
-.. code-block::
+.. code-block:: python
 
    bpy.ops.cerebro.backup_panel('INVOKE_DEFAULT')
 
 Команда запускает панель в которой сперва надо указать путь где будут создаваться бекапы.
 
-.. image:: ../../_static/images/backup_panel.png
+.. image:: ../../../../_static/images/backup_panel.png
 
 * Путь сохраняется при следующих запусках.
 * История с этим путём аналогична указанию рабочего пути к :ref:`projects_folder_settings`, отличается только названием конечной директории.

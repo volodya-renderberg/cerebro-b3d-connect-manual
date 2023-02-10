@@ -13,7 +13,7 @@
 Команда запуска:
 ******************
 
-.. code-block::
+.. code-block:: python
 
    bpy.ops.cerebro.remove_incoming_links_from_selected_shot_panel("INVOKE_DEFAULT")
 
@@ -28,7 +28,7 @@
 Запускаемая командой панель:
 *****************************
 
-.. image:: ../../_static/images/remove_incoming_links_from_shot_panel.png
+.. image:: ../../../../_static/images/remove_incoming_links_from_shot_panel.png
 
 * Кнопка :guilabel:`del` удалит данную входящую связь из шота и очистит данную строку в списке.
 
@@ -41,7 +41,7 @@
 Команда запуска:
 ******************
 
-.. code-block::
+.. code-block:: python
 
    bpy.ops.cerebro.remove_incoming_links_from_this_task_panel("INVOKE_DEFAULT")
 
