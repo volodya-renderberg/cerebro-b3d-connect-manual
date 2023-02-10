@@ -6,7 +6,7 @@
 Выдача файлов на удалёнку
 --------------------------
 
-* Выгрузка контента серии (пропсы, локации): `<https://disk.yandex.ru/i/lX2wtRnuOpbR2A>`_
+* Выгрузка контента серии: `<https://disk.yandex.ru/i/lX2wtRnuOpbR2A>`_
 
 * Выгрузка шотов: `<https://disk.yandex.ru/i/92nQnl1SbsZU7w>`_
 
