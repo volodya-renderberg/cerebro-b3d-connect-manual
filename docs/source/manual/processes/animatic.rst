@@ -10,3 +10,4 @@
    animatic/change_animatic
    animatic/slicing_shot
    animatic/retiming_shot
+   animatic/refresh_empty_shots

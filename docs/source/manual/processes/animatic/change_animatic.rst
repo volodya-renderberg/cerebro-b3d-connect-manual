@@ -24,15 +24,3 @@
 `Обновление звуковой дорожки аниматика (видео) <https://disk.yandex.ru/i/m_dqSoPGYtTEhQ>`_
 
 После данной процедуры :ref:`work_panel_commit` обязателен.
-
-
-.. _fix-empty-shots:
-
-Починка пустышек шотов
--------------------------
-
-Исправление стуации, когда шоты выглядят вот так:
-
-.. image:: ../../../_static/images/empty_shots.png
-
-`Видео <https://disk.yandex.ru/i/qR5BaLbtPR4HvQ>`_
