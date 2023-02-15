@@ -5,7 +5,7 @@
 
 Процедура при которой из одного шота создаётся два или более.
 
-`Нарезка шотов (видео) <https://disk.yandex.ru/i/3qF78bunanj2uw>`_
+`Нарезка шотов (видео) <https://disk.yandex.ru/i/9PUsibHMG6LWcw>`_
 
 После данной процедуры :ref:`work_panel_commit` обязателен.
 
