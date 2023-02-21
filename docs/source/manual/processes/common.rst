@@ -3,6 +3,19 @@
 Общее
 ========
 
+.. _common_all_videos:
+
+Все видео
+----------
+
+* `Самое начало (видео) <https://disk.yandex.ru/i/lZMF2WP23D8M-w>`_
+* `Взятие задачи в работу от нуля (видео) <https://disk.yandex.ru/i/zuYEATMGdzNsrw>`_
+* `Взять задачу из входящей (видео) <https://disk.yandex.ru/i/X6x8qTIpGkBitg>`_
+* `Взять в работу из глобальной версии (видео) <https://disk.yandex.ru/i/JYaW1WCQeMDc6g>`_
+* `Открыть локальную версию (видео) <https://disk.yandex.ru/i/9oVC42fhqFfmiw>`_
+* `Открыть топ версию (видео) <https://disk.yandex.ru/i/1ajRtiMWME_8Kw>`_
+* `Создание версии рабочего файла (видео) <https://disk.yandex.ru/i/395pcfgLT97vCg>`_
+
 .. _common_start:
 
 Самое начало работы
