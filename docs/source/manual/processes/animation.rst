@@ -19,6 +19,10 @@
 * `[общее] Открыть локальную версию (видео) <https://disk.yandex.ru/i/9oVC42fhqFfmiw>`_
 * `[общее] Открыть топ версию (видео) <https://disk.yandex.ru/i/1ajRtiMWME_8Kw>`_
 
+Тех требования
+
+* `Парент объектов - Child Of (видео) <https://disk.yandex.ru/i/5WbVvUDLOeCvKw>`_
+
 .. _animation_pull_task:
 
 Взятие задачи в работу
@@ -71,9 +75,9 @@
 
 -------------------
 
-.. _animation_working_moments:
+.. _animation_tech_rules:
 
-Рабочие моменты
+Тех требования
 -----------------
 
 Некоторые условия, соблюдая которые анимацию можно будет восстановить функцией :ref:`build-scene-page`, а так же импортировать функцией :ref:`import_animation_from_incoming_task`.
@@ -89,6 +93,8 @@
 
 Паренты объектов
 ~~~~~~~~~~~~~~~~~~~~
+
+`Child Of (Видео) <https://disk.yandex.ru/i/5WbVvUDLOeCvKw>`_
 
 * Парент объектов использовать нельзя.
 
