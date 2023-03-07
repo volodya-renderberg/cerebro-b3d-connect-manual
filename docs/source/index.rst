@@ -29,6 +29,8 @@ Manual
    :caption: ВИДЫ ДЕЯТЕЛЬНОСТИ
    
    manual/processes/common
+   manual/processes/modelling
+   manual/processes/rigging
    manual/processes/animation
    manual/processes/animation_at_outsource
    manual/processes/checking
