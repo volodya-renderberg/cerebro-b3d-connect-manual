@@ -42,7 +42,7 @@ backup_data.db
 
 ``Sqlite3``
 
-Таблицы
+Таблицы:
 *********
 
 .. code-block:: python
