@@ -3,6 +3,8 @@
 Бекап проектов
 =======================
 
+`(Видео) <https://disk.yandex.ru/i/tOeWESeSZzCvqA>`_
+
 Команда запуска:
 ----------------
 .. code-block:: python
