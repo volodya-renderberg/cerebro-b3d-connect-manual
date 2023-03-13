@@ -33,8 +33,8 @@ Manual
    manual/processes/rigging
    manual/processes/animation
    manual/processes/animation_at_outsource
-   manual/processes/checking
    manual/processes/animatic
+   manual/processes/checking
    manual/processes/managers_functions
 
 
