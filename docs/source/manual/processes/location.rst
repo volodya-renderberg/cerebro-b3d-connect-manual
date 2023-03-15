@@ -3,6 +3,10 @@
 Сборка локации
 ================
 
+`Сборка локации через Build (видео) <https://disk.yandex.ru/i/w61Re-V6TAbGcg>`_
+
+`Штучное добавление пропсов через Source Panel (видео) <https://disk.yandex.ru/i/v7CENRmOYLSTeA>`_
+
 Тех требования
 ----------------
 
