@@ -105,17 +105,31 @@ Create Shots
 Export animatic data:
 ---------------------
 
-Экспорт различных данных в текстовые файлы.
+Экспорт различных данных.
 
-Export shots timing to .csv
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. _animatic_tools_export_shot_timing_frame:
 
-:guilabel:`Export shots timing to .csv` - запись в файл таблицы с данными начальных и конечных кадров шотов.
+Export shots timing to .csv (frame)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+:guilabel:`Export shots timing to .csv (frame)` - запись в файл таблицы с данными начальных и конечных кадров шотов.
 
 * Название файла ``[Episode_name]_shots_timing.csv``.
 * Колонки таблицы: ``name``, ``start``, ``end``.
 * Сохранение файла в папке ``meta`` директории задачи :ref:`files_task_folder`.
 
+.. _animatic_tools_export_shot_timing_time:
+
+Export shots timing to .csv (00:00:00:00)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+:guilabel:`Export shots timing to .csv (00:00:00:00)` - всё аналогично предыдущей функции, только записываются не фреймы а время до миллисекунд.
+
+
+Export Content to Outsource
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Действие подробно описано тут :ref:`animation_to_outsource_content_to`, видео - `<https://disk.yandex.ru/i/lX2wtRnuOpbR2A>`_.
 
 .. _animatic_tools_edit_shots:
 
