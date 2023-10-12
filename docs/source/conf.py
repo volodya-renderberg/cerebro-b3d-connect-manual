@@ -70,7 +70,7 @@ on_rtd = os.environ.get("READTHEDOCS") == "True"
 if on_rtd:
     html_theme = "default"
 else:
-    html_theme = "classic"
+    html_theme = "default"
 
 pygments_style = 'sphinx'
 
